@@ -1,0 +1,7 @@
+/*
+  O 'CssBaseline' do MUI e o 'ThemeProvider' já cuidam da maioria dos resets.
+  Vamos apenas definir uma cor de fundo global.
+*/
+body {
+  background-color: #f0f2f5; /* Um cinza claro suave */
+}

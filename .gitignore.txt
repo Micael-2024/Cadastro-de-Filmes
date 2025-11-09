@@ -1,0 +1,9 @@
+# Ignora pastas de dependências em qualquer subpasta
+**/node_modules
+
+# Ignora arquivos de ambiente (senhas, chaves de API)
+.env
+*.env
+
+# Ignora logs
+*.log
